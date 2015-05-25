@@ -2,6 +2,7 @@
   "name": "react-subrouter",
   "version": "0.0.1",
   "description": "A react-router inspired subrouting library",
+  "main": "lib",
   "repository": {
     "type": "git",
     "url": "https://github.com/UgnisSoftware/react-subrouter"
@@ -16,7 +17,8 @@
     "router"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "transpile": "babel src --out-dir lib"
   },
   "engines": {
     "node": "*"
@@ -25,10 +27,8 @@
     "Karolis Masiulis"
   ],
   "license": "MIT",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
-
+    "babel": "^5.4.7"
   }
 }
