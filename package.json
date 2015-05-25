@@ -1,0 +1,29 @@
+{
+  "name": "react-subrouter-examples",
+  "subdomain": "react-subrouter-examples",
+  "description": "react-subrouter-examples",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UgnisSoftware/react-subrouter-examples"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^0.13.1",
+    "react-router": "^0.13.2",
+    "react-subrouter": "^0.1.2"
+  },
+  "devDependencies": {
+    "babelify": "^6.0.1",
+    "browserify": "^9.0.7",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0",
+    "morgan": "^1.5.3",
+    "open": "0.0.5",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.1.0"
+  }
+}
