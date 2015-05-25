@@ -22,6 +22,8 @@ export default class extends React.Component{
 
                 <h3>React SubRouter</h3>
                 <Modal/>
+                <Modal/>
+                <Modal/>
 
                 <hr/>
             </div>
