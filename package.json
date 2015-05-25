@@ -1,0 +1,34 @@
+{
+  "name": "react-subrouter",
+  "version": "0.0.1",
+  "description": "A react-router inspired subrouting library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UgnisSoftware/react-subrouter"
+  },
+  "keywords": [
+    "react",
+    "subrouter",
+    "react-component",
+    "routing",
+    "route",
+    "routes",
+    "router"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "authors": [
+    "Karolis Masiulis"
+  ],
+  "license": "MIT",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
