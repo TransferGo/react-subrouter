@@ -1,6 +1,6 @@
 {
   "name": "react-subrouter",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A react-router inspired subrouting library",
   "main": "lib",
   "repository": {
@@ -27,9 +27,10 @@
     "Karolis Masiulis"
   ],
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "babel": "^5.4.7",
     "babel-runtime": "^5.7.0"
+  },
+  "devDependencies": {
   }
 }
