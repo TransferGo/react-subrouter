@@ -28,9 +28,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "babel": "^5.4.7",
     "babel-runtime": "^5.7.0"
   },
   "devDependencies": {
+    "babel": "^5.4.7"
   }
 }
