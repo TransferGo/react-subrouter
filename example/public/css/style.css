@@ -1,0 +1,39 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+a:hover {
+    cursor:pointer;
+}
+
+.wrapper{
+    width: 600px;
+    margin: auto;
+}
+
+.content{
+    padding: 20px;
+}
+
+.tab{
+    border: 1px solid #cccccc;
+    margin: -1px;
+    color: #000000;
+    text-decoration: none;
+    padding: 10px 0;
+    display: inline-block;
+}
+
+.tab.active{
+    color: #0040D0;
+    font-weight: 700;
+}
+
+.tab.two{
+    width: 300px;
+}
+
+.tab.three{
+    width: 200px;
+}
