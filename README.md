@@ -8,8 +8,6 @@ There can be multiple SubRouters
 
 API is closely aligned with react-router's (SubLink, SubRouteHandler, etc...)
 
-Examples at [react-subrouter-examples](https://github.com/UgnisSoftware/react-subrouter-examples)
-
 ## Usage
 
 Request Libraries
